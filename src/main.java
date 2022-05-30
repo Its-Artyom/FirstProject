@@ -4,7 +4,7 @@ import java.util.Locale;
 First project is where I will learn different things is java :)
  */
 public class main {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         /* Declaring a variable
         type variableName = value
         "final" phrase can be used to set a constant value.
